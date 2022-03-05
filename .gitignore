@@ -9,7 +9,7 @@ wp-content/*
 !wp-content/themes/
 
 # ignore these plugins
-wp-content/plugins/hello.php
+wp-content/plugins/simply-static
 
 # ignore specific themes
 wp-content/themes/twenty*/
